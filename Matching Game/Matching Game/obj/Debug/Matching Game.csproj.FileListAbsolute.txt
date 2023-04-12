@@ -1,0 +1,20 @@
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\bin\Debug\Matching Game.exe.config
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\bin\Debug\Matching Game.exe
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\bin\Debug\Matching Game.pdb
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\obj\Debug\Matching_Game.Form1.resources
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.exe
+C:\Users\Aleksandar\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.pdb
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\bin\Debug\Matching Game.exe.config
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\bin\Debug\Matching Game.exe
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\bin\Debug\Matching Game.pdb
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.AssemblyReference.cache
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.SuggestedBindingRedirects.cache
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching_Game.Form1.resources
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.cache
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.CoreCompileInputs.cache
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching Game.exe
+F:\KaelUserFiles\Desktop\Matching Game\Matching Game\obj\Debug\Matching Game.pdb
